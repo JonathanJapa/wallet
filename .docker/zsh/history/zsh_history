@@ -1,0 +1,59 @@
+: 1666315121:0;node 
+: 1666315138:0;npm install 
+: 1666315272:0;npm run test
+: 1666320915:0;bpm run tsc -- -b
+: 1666320919:0;npm run tsc -- -b
+: 1666321534:0;node index.js
+: 1666322318:0;npm run tsc -- -b
+: 1666322397:0;cti:@core
+: 1666322411:0;npm run cti:@core
+: 1666322496:0;npm run test
+: 1666324086:0;cd ..
+: 1666324088:0;ls
+: 1666324137:0;cd nestjs
+: 1666324152:0;cd nestjs/
+: 1666328494:0;npm i
+: 1666328774:0;npm init -y
+: 1666328813:0;npm i
+: 1666329225:0;npm install
+: 1666329252:0;cd ..
+: 1666329254:0;ls
+: 1666329261:0;c app
+: 1666329266:0;cd app
+: 1666329277:0;npm install
+: 1666329377:0;npm init -y 
+: 1666329398:0;npm install
+: 1666330167:0;npm i axios -w @japa/cancelation
+: 1666330199:0;npm uninstall axios -w @japa/cancelation
+: 1666331165:0;npm run build -w @japa/cancelation
+: 1666332083:0;npm run build -w @japa/cancelamento
+: 1666332144:0;npm run build -w @nest
+: 1666333375:0;npm run start:dev
+: 1666333549:0;npm run start:dev 
+: 1666333786:0;chmod =x .docker/start.sh
+: 1666333798:0;chmod +x .docker/start.sh
+: 1666333819:0;chmod +x .docker/zsh/start.sh
+: 1666335827:0;npm i
+: 1666335837:0;npm run start:dev
+: 1666338282:0;cd src
+: 1666338285:0;vc nest
+: 1666338288:0;cd nest
+: 1666338330:0;nest g resource cancelation
+: 1666341369:0;cd ..
+: 1666341371:0;ls
+: 1666341379:0;cd @core
+: 1666341421:0;npm i sequelize-typescript 
+: 1666341524:0;npm i sequelize-
+: 1666341554:0;npm i
+: 1666341561:0;npm i sequelize
+: 1666341599:0;npm i sqlite ]
+: 1666341606:0;npm i sqlite3
+: 1666343122:0;npm run build
+: 1666343193:0;npm run clean:tsc
+: 1666343227:0;npm run build
+: 1666348544:0;npm run test
+: 1666348621:0;npm run clean:tsc
+: 1666348625:0;npm run build
+: 1666348857:0;node --trace-deprecation
+: 1666349035:0;npm run test
+: 1666354689:0;npm run build
